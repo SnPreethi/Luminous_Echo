@@ -35,4 +35,4 @@ To use the Luminous Echo, follow these steps:
 Wave your hands over the coffee cups to trigger different notes. Experiment with varying light levels to control volume and vibrato. Each cup represents a distinct musical note, offering a diverse range of sound possibilities.
 
 ## CREDITS
-This project was created by Preethi Somayajula as a demonstration of the integration of sensor technology and musical instruments. This work is inspired from the original creator - @bonniee. 
+This project was created by Preethi Somayajula as a demonstration of the integration of sensor technology and musical instruments. This work is inspired from the original creator - [bonniee](https://github.com/bonniee). 
