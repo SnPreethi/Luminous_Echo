@@ -1,4 +1,4 @@
-# Luminous_Echo - A light-based musical instrument using Arduino UNO
+# Luminous Echo
 
 Luminous Echo is an innovative light-based spatial instrument, utilizing Arduino Uno, photoresistors, and the ChucK musical programming language to create a unique IoT musical experience. This project combines sensor technology with musical instrument design, allowing users to interact with sound through light manipulation.
 
