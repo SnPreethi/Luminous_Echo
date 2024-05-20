@@ -61,6 +61,7 @@ The Luminous Echo consists of six coffee cups, each representing a note of the m
 [video](https://github.com/SnPreethi/Luminous_Echo/assets/170320349/f294643a-db98-46d5-93d2-65081dc79d25)
 
 ## LAYOUT
+<div align="center">
 <p>
 <b><font size="3">Circuit Diagram</font></b><br>
 <center>
@@ -81,6 +82,7 @@ The Luminous Echo consists of six coffee cups, each representing a note of the m
 <img src="Prototype_Images/Internal_Connections.jpg" width="500" />
 </center>
 </p>
+</div>
 
 ## CREDITS
 <p align="justify">
